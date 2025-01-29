@@ -24,3 +24,8 @@ This is a Java implementation of a Turing Machine simulator. It allows users to 
 - Enter the Transition by spaces between each char: q1 0 q2 0 L
 - Enter the Transition by spaces between each char: q2 # q3 # Y
 
+## OutPut Example: 
+- The language is Accepted
+- #101#
+- The head in the 2 index of the tape
+
