@@ -13,6 +13,19 @@ This is a Java implementation of a Turing Machine simulator. It allows users to 
 
 ---
 
+## Follow the prompts to input:
+
+- The string to process.
+- The number of states, input alphabets, and machine alphabets.
+- The transition rules.
+- The initial state and head position.
+
+---
+
+## NOTES:
+- The program will output whether the input string is accepted or rejected, along with the final tape state and head position.
+
+---
 ## Inputs Example: 
 - Enter the String: 101
 - Enter Number of States: 3
